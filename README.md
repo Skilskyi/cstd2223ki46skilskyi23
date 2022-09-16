@@ -2,7 +2,7 @@ Student: Skilskyi Taras Group: CE-46 Subject: CSDT
 
 Project name: chrome dragon game Programming language: JavaScript
 
-Additional tools/utils: Bash, Make HW interface: SPI Data driven format: JSON
+Additional tools/utils: Bash, Make HW interface: SPI Data driven format: XML
 
 Play modes: Man vs AI, Man vs Man, AI vs AI
 
